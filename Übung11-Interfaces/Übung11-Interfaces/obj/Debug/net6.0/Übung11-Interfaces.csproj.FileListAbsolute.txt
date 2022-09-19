@@ -1,0 +1,15 @@
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\bin\Debug\net6.0\Übung11-Interfaces.exe
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\bin\Debug\net6.0\Übung11-Interfaces.deps.json
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\bin\Debug\net6.0\Übung11-Interfaces.runtimeconfig.json
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\bin\Debug\net6.0\Übung11-Interfaces.dll
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\bin\Debug\net6.0\Übung11-Interfaces.pdb
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.csproj.AssemblyReference.cache
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.AssemblyInfoInputs.cache
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.AssemblyInfo.cs
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.csproj.CoreCompileInputs.cache
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.dll
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\refint\Übung11-Interfaces.dll
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.pdb
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\Übung11-Interfaces.genruntimeconfig.cache
+F:\[programming]\C#Masterkurs\Übrung11-Interfaces\Übung11-Interfaces\Übung11-Interfaces\obj\Debug\net6.0\ref\Übung11-Interfaces.dll
