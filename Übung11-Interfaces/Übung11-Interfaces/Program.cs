@@ -11,6 +11,8 @@ namespace AufgabeModul11
     {
         static void Main(string[] args)
         {
+            //Interface ITier
+            /*
             ITier[] array = new ITier[3];
             array[0] = new Hund("Männlich",10);
             array[1] = new Katze("Weiblich", 4);
@@ -23,9 +25,33 @@ namespace AufgabeModul11
                 tier.Trinken();
                 Console.WriteLine();
             }
+            */
 
-
+            //Interface ILogger
+            Person person = new Person();
+            person.Name = "Gustav";
+            Console.WriteLine(person.Name);
             Console.ReadKey();
+        }
+    }
+
+    class Person
+    {
+        private ILogger logger = new ConsoleLogger();
+        //Eigenschaften
+        private string name;
+        public string Name
+        {
+            get
+            {
+                logger.Log("Getter von Name wurde aufgerufen!");
+                return name;
+            }
+            set
+            {
+                logger.Log("Setter von Name wurde aufgerufen!");
+                name = value;
+            }
         }
     }
 }
